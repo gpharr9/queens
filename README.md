@@ -1,13 +1,15 @@
-# queens-unlimited
+# liked linkedin queens but unlimited and such
 
 ## Project setup
 ```
-npm install
+you don't need this one there are no modules
 ```
 
 ### Compiles and hot-reloads for development
 ```
 npm run serve
+
+so true
 ```
 
 ### Compiles and minifies for production
